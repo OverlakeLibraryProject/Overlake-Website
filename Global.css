@@ -1,0 +1,11 @@
+body {
+    font-family: tahoma, sans-serif;
+    background-color: lightgray;
+}
+.center {
+    align-content: center;
+}
+.container {
+    background-color: #ffffff;
+    align-content: center;
+}
