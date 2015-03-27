@@ -1,0 +1,32 @@
+.book-thumbnail {
+    width: 75px;
+    height: 100px;
+}
+.search-result {
+    text-decoration: underline;
+    color:black;
+}
+.search-result:hover {
+    text-decoration: none;
+    color:green;
+}
+.search-drop {
+    width: 1000px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    align-content: center;
+    padding-left: 15%;
+}
+.search-drop:hover .search-result{
+    background-color: lightgray;
+    color:green;
+    padding-top: 41px;
+    padding-bottom: 44px;
+}
+.instant-search {
+    border-top: 1px solid lightblue;
+    border-bottom: 1px solid lightblue;
+    -webkit-box-shadow: -1px 6px 5px 1px rgba(0,0,0,0.25);
+    -moz-box-shadow: -1px 6px 5px 1px rgba(0,0,0,0.25);
+    box-shadow: -1px 6px 5px 1px rgba(0,0,0,0.25);
+}
